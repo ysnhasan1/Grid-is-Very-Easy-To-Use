@@ -1,5 +1,5 @@
 ---
-# Grid-is-very-easy-to-use.
+# Grid-is-Very-Easy-To-Use.
 ### Using Grid in complex structures is the right decision.
 
 In this project, I created a random Mondrian Art that I chose in CSS Grid. 
