@@ -14,4 +14,6 @@ But it is very easy to create this great 2D layout using Grid.
 * You can see below that I obtain the same target image. 
 Notice that I simply chose yellow, red, blue, and white for the grid items.
 
+<div align="center">
 <img src="https://github.com/ysnhasan1/Grid-is-very-easy-to-use./assets/102024926/4cc3f83f-d204-45a1-abda-afce3e0319de" height="400" width="400">
+</div>
